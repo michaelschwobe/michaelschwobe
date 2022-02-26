@@ -1,6 +1,6 @@
 ### Hi, I'm Mike! 🗝
 
-#### 🤙 Hobbies / ⛽️ Passions
+#### 🤙 Hobbies / 🔋 Passions
 
 ![Boarding](https://img.shields.io/badge/🏂-Boarding-000000?style=for-the-badge)
 ![Biking](https://img.shields.io/badge/🚵-Biking-000000?style=for-the-badge)
