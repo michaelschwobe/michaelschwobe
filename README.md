@@ -2,11 +2,11 @@
 
 #### 🤙 Hobbies / 🔋 Passions
 
-![Boarding](<https://img.shields.io/badge/🏂-Boarding-000000?labelColor=hsl(0,0%,0%,35%)&style=for-the-badge>)
-![Biking](<https://img.shields.io/badge/🚵-Biking-000000?labelColor=hsl(0,0%,0%,35%)&style=for-the-badge>)
-![Coffee](<https://img.shields.io/badge/☕️-Coffee-000000?labelColor=hsl(0,0%,0%,35%)&style=for-the-badge>)
-![Code](<https://img.shields.io/badge/💻-Code-000000?labelColor=hsl(0,0%,0%,35%)&style=for-the-badge>)
-![Music](<https://img.shields.io/badge/🎸-Music-000000?labelColor=hsl(0,0%,0%,35%)&style=for-the-badge>)
+![Boarding](https://img.shields.io/badge/🏂-Boarding-000000?style=for-the-badge)
+![Biking](https://img.shields.io/badge/🚵-Biking-000000?style=for-the-badge)
+![Coffee](https://img.shields.io/badge/☕️-Coffee-000000?style=for-the-badge)
+![Code](https://img.shields.io/badge/💻-Code-000000?style=for-the-badge)
+![Music](https://img.shields.io/badge/🎸-Music-000000?style=for-the-badge)
 
 #### 🥞 Stack / 🛠 Tools
 
